@@ -8,7 +8,7 @@
 
 ### ###Heading 3
 
-* *Italic Text* *
+**Italic Text* *
 
 #### ####Heading 4
 
