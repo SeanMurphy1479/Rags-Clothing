@@ -4,7 +4,7 @@
  
 ## ##Heading 2
 
-**Bold Text**
+** **Bold Text** **
 
 ### ###Heading 3
 
