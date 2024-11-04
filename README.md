@@ -8,9 +8,9 @@
 
 ### ###Heading 3
 
-*Italic Text*
+* *Italic Text* *
 
 #### ####Heading 4
 
-***Bold and Italic Text***
+*** ***Bold and Italic Text*** ***
 
