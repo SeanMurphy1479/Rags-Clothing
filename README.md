@@ -38,3 +38,7 @@ background(70);
 }
 
 ```
+
+> Blockquotes
+
+---
